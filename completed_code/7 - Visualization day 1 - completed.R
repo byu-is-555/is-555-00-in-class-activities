@@ -1,4 +1,4 @@
-# TYPES OF GEOMETRIES ("GEOMs")
+aes# TYPES OF GEOMETRIES ("GEOMs")
 # 
 # Single Variable
 #   Distributions of continuous
